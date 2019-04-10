@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ae3b0ee-a321-4a28-acd1-327366faa871" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../thuchanh9-1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh9-1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap2-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap2-1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap2-1/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap2-2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap2-2/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap2-3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap2-3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap2-3/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap3-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap3-1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap3-2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap3-2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap3-3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap3-3/dinhdang.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap3-3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap3-5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap3-5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap3-6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap3-6/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap3-7/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap3-7/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap4-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap4-1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap4-2-hienthisonguyento/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap4-2-hienthisonguyento/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap4-2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap4-2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap5-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap5-1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap5-2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap5-2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap5-2/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap5-2/index3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap5-3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap5-3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap6-1-kiemtrasonguyento/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap6-1/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap6-1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap6-2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap6-3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap6-3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap6-3/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap6-3/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap6-3/index3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap6-3/index4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap6-3/index5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap6-3/index6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap6-3/index7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap6-3/index8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap6-4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap6-4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap6-4/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap6-4/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap6-4/index3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap6-4/index4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap7-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap7-1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap7-2-chuyendoinhietdo/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap7-3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap7-3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap8-1/.idea/baitap8-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap8-1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap8-1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap8-1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap8-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap8-1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap8-1/Panamera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap8-1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap8-3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap8-3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmaytinh/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmaytinh/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chuyendoitiente/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chuyendoitiente/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hienthisonguyentolimit/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh2-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh2-1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh2-1/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh2-2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh2-2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh2-2/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh2-3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh2-3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh2-3/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh2-4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh2-4/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3-1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3-1/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3-10/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3-10/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3-3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3-3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3-3/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3-4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3-4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3-4/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3-5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3-5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3-6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3-6/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3-7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3-7/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3-7/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3-8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3-8/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3-9/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3-9/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh4-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh4-1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh4-1/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh4-2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh4-2/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh4-3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh4-4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh4-4/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh4-4/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh5-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh5-1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh5-2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh5-2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh5-3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh5-3/inde.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh5-4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh5-4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh7-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh7-1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh7-2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh7-2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh7-3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh7-3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh7-3/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh7-3/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh7-3/index3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh7-3/index4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh8-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh8-1/index.html" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="thuchanh9-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thuchanh9-2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ae3b0ee-a321-4a28-acd1-327366faa871" name="Default Changelist" comment="" />
+      <created>1554884931218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554884931218</updated>
+      <workItem from="1554884932905" duration="235000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="235000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
